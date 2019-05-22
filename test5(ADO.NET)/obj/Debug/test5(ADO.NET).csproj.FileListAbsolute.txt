@@ -1,0 +1,10 @@
+C:\Users\ADMIN\source\repos\TEST\test5(ADO.NET)\bin\Debug\test5(ADO.NET).exe.config
+C:\Users\ADMIN\source\repos\TEST\test5(ADO.NET)\bin\Debug\test5(ADO.NET).exe
+C:\Users\ADMIN\source\repos\TEST\test5(ADO.NET)\bin\Debug\test5(ADO.NET).pdb
+C:\Users\ADMIN\source\repos\TEST\test5(ADO.NET)\obj\Debug\test5(ADO.NET).csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\TEST\test5(ADO.NET)\obj\Debug\test5_ADO.NET_.Form1.resources
+C:\Users\ADMIN\source\repos\TEST\test5(ADO.NET)\obj\Debug\test5_ADO.NET_.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\TEST\test5(ADO.NET)\obj\Debug\test5(ADO.NET).csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\TEST\test5(ADO.NET)\obj\Debug\test5(ADO.NET).csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\TEST\test5(ADO.NET)\obj\Debug\test5(ADO.NET).exe
+C:\Users\ADMIN\source\repos\TEST\test5(ADO.NET)\obj\Debug\test5(ADO.NET).pdb

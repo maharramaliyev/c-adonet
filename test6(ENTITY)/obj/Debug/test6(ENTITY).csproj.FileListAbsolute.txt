@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\TEST\test6(ENTITY)\bin\Debug\test6(ENTITY).exe.config
+C:\Users\ADMIN\source\repos\TEST\test6(ENTITY)\bin\Debug\test6(ENTITY).exe
+C:\Users\ADMIN\source\repos\TEST\test6(ENTITY)\bin\Debug\test6(ENTITY).pdb
+C:\Users\ADMIN\source\repos\TEST\test6(ENTITY)\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\source\repos\TEST\test6(ENTITY)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\source\repos\TEST\test6(ENTITY)\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\source\repos\TEST\test6(ENTITY)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\source\repos\TEST\test6(ENTITY)\obj\Debug\test6(ENTITY).csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\TEST\test6(ENTITY)\obj\Debug\test6_ENTITY_.Form1.resources
+C:\Users\ADMIN\source\repos\TEST\test6(ENTITY)\obj\Debug\test6_ENTITY_.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\TEST\test6(ENTITY)\obj\Debug\test6(ENTITY).csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\TEST\test6(ENTITY)\obj\Debug\test6(ENTITY).csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\TEST\test6(ENTITY)\obj\Debug\test6(ENTITY).csproj.CopyComplete
+C:\Users\ADMIN\source\repos\TEST\test6(ENTITY)\obj\Debug\test6(ENTITY).exe
+C:\Users\ADMIN\source\repos\TEST\test6(ENTITY)\obj\Debug\test6(ENTITY).pdb
